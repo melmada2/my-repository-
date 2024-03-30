@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#Update the OS
 yum update -y
 #Install Apache
 yum install httpd -y
