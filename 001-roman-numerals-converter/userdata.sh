@@ -1,4 +1,4 @@
-#!/bin/bash -x 
+#!/bin/bash -x  
 yum update -y
 
 #instal python and flask
